@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_kid.png"><SubTexture name="menu_kid Idle0000" x="0" y="0" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0001" x="201" y="0" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0002" x="402" y="0" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0003" x="0" y="488" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0004" x="201" y="488" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0005" x="402" y="488" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0006" x="0" y="976" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0007" x="201" y="976" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+<SubTexture name="menu_kid Idle0008" x="402" y="976" width="201" height="488" frameX="0" frameY="0" frameWidth="201" frameHeight="488" />
+</TextureAtlas>
